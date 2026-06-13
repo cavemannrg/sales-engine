@@ -1,4 +1,6 @@
 {
-  "pnl": "v21",
-  "sales": "v210"
+  "pnl": "v23",
+  "sales": "v212",
+  "blocked": [],
+  "guestBlock": false
 }
